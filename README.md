@@ -1,6 +1,7 @@
 # RailsAdmin
 
-[![Gem Version](https://img.shields.io/gem/v/rails_admin.svg)][gem]
+[![Gem Version](https://img.shields.io/gem/v/rails_admin.svg)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMindSciences%2Frails_admin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMindSciences%2Frails_admin?ref=badge_shield)
+[gem]
 [![Build Status](https://img.shields.io/travis/sferik/rails_admin.svg)][travis]
 [![Coverage Status](https://img.shields.io/coveralls/sferik/rails_admin.svg)][coveralls]
 [![Inline docs](http://inch-ci.org/github/sferik/rails_admin.svg)][inch]
@@ -107,3 +108,7 @@ This library aims to support and is [tested against][travis] the following Ruby 
 
 [rubinius]: http://rubinius.com
 [jruby]: http://jruby.org/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMindSciences%2Frails_admin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMindSciences%2Frails_admin?ref=badge_large)
